@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main ()
+void main()
 {
     int a,b,c,d;
     printf("Enter the 4 number \n");
